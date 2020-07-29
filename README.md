@@ -1,6 +1,6 @@
 # BuildPulse Example Project: Java + Gradle + TestNG
 
-This is an example TestNG project demonstrating how to send test results to [BuildPulse](https://buildpulse.io) to help you detect, track, and eliminate flaky tests.
+This is an example [TestNG](https://testng.org) project demonstrating how to send test results to [BuildPulse](https://buildpulse.io) to help you detect, track, and eliminate flaky tests.
 
 ## GitHub Actions CI Integration
 
