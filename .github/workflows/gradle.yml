@@ -25,7 +25,7 @@ jobs:
       uses: Workshop64/buildpulse-action@master
       with:
         account: 68192324 # Replace this value with your BuildPulse account ID.
-        repository: 283521682 # Replace this value with your BuildPulse repository ID.
+        repository: 283524652 # Replace this value with your BuildPulse repository ID.
         path: build/test-results # By default, Gradle writes XML test reports to build/test-results. If you're writing XML reports to a different path, specify that path here.
         key: ${{ secrets.BUILDPULSE_ACCESS_KEY_ID }}
         secret: ${{ secrets.BUILDPULSE_SECRET_ACCESS_KEY }}
